@@ -1,7 +1,4 @@
-## Hi there 👋
 this is where i dump what i've built on the web
-
----
 
 <p align="center">
   This is me btw (trust me)
