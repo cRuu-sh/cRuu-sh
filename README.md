@@ -2,11 +2,7 @@
 
 You've come to my humble code dump
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="./image/5bc135f58984a348db51984026e94bc9.jpg">
- <source media="(prefers-color-scheme: light)" srcset="./image/5bc135f58984a348db51984026e94bc9.jpg">
- <img alt="cat coding" src="./image/5bc135f58984a348db51984026e94bc9.jpg">
-</picture>
+<img src="./image/5bc135f58984a348db51984026e94bc9.jpg" alt="cat infront of a laptop" width="320px">
 
 
 <!--
