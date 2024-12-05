@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+You've come to my humble code dump
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="cat coding" src="https://i.pinimg.com/564x/5b/c1/35/5bc135f58984a348db51984026e94bc9.jpg">
+</picture>
+
+
 <!--
 **cRuu-sh/cRuu-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
